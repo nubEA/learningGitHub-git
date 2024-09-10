@@ -1,1 +1,3 @@
 ECHO is on.
+this is my new hotel 
+hotel1
